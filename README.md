@@ -33,8 +33,9 @@
 ###   Identify zero values:
 ##### Certain columns like Glucose, BloodPressure, SkinThickness, Insulin, and BMI contain zero values that may represent missing data.
 
-#### Feature and Target Split:X = df.drop('Outcome', axis=1)
-####                          y = df['Outcome']
+#### Feature and Target Split:
+##### X = df.drop('Outcome', axis=1)
+##### y = df['Outcome']
 
 ###    Train-Test Split:
-####   X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+#####   X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
