@@ -46,4 +46,6 @@
 #####     Correlation Heatmap
 #####     Scatter & Line plot
 
-
+### 🤖  Model Overview
+##### Logistic Regression is a statistical method used for binary classification — in this case, predicting whether a person has diabetes (1) or not (0).
+##### It models the probability that a given input belongs to a particular class using the sigmoid (logistic) function.
