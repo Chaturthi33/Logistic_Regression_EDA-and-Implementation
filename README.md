@@ -20,12 +20,12 @@
 
 ## Data Preprocessing Steps
 
-###   Load dataset:df = pd.read_csv('diabetes.csv')
+####   Load dataset:df = pd.read_csv('diabetes.csv')
 
-###   Check shape, duplicates, and missing values:
-##### Rows: 768
-##### Columns: 9
-##### Duplicates: 0
+####   Check shape, duplicates, and missing values:
+#####  Rows: 768
+#####  Columns: 9
+#####  Duplicates: 0
 
 ###   Statistical Summary:
 ##### Used df.describe() to understand data distribution, mean, and standard deviation.
