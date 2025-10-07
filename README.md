@@ -7,15 +7,15 @@
 ##### Source: Kaggle - Diabetes Database
 
 ## 
-##### Column	                       Description	                                Type
-##### Pregnancies	            Number of times pregnant	                         Integer
-##### Glucose	Plasma          glucose concentration after 2 hours in an          Integer
-#####                         oral glucose tolerance test	
-##### BloodPressure	          Diastolic blood pressure (mm Hg)	                 Integer
-##### SkinThickness	          Triceps skin fold thickness (mm)	                 Integer
-##### Insulin	                2-Hour serum insulin (mu U/ml)	                   Integer
-##### BMI	                    Body Mass Index (weight in kg/(height in m)^2)	   Float
-##### Diabetes                A function that scores the likelihood              Float
-##### PedigreeFunction	      of diabetes based on family history
-##### Age	                    Age in years	                                     Integer
-##### Outcome	                Class variable (0 = Non-diabetic, 1 = Diabetic)	   Integer
+##### Column	                                 Description	                                            Type
+##### Pregnancies	                         Number of times pregnant	                                  Integer
+##### Glucose	Plasma                      glucose concentration after 2 hours in an                   Integer
+#####                                     oral glucose tolerance test	
+##### BloodPressure	                     Diastolic blood pressure (mm Hg)	                            Integer
+##### SkinThickness	                     Triceps skin fold thickness (mm)	                            Integer
+##### Insulin	                           2-Hour serum insulin (mu U/ml)	                              Integer
+##### BMI	                               Body Mass Index (weight in kg/(height in m)^2)	               Float
+##### Diabetes                           A function that scores the likelihood                         Float
+##### PedigreeFunction	                of diabetes based on family history
+##### Age	                              Age in years	                                                Integer
+##### Outcome	                          Class variable (0 = Non-diabetic, 1 = Diabetic)	              Integer
