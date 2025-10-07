@@ -8,8 +8,7 @@
 
 ##                               
 ##### Pregnancies	:                         Number of times pregnant	:                                  Integer
-##### Glucose	Plasma :                     glucose concentration after 2 hours in an  :                 Integer
-#####                                     oral glucose tolerance test	
+##### Glucose	Plasma :                     glucose concentration after 2 hours   :                      Integer
 ##### BloodPressure	 :                    Diastolic blood pressure (mm Hg)	:                           Integer
 ##### SkinThickness	 :                    Triceps skin fold thickness (mm)	:                           Integer
 ##### Insulin	:                           2-Hour serum insulin (mu U/ml)	  :                            Integer
