@@ -1,9 +1,4 @@
-# Logistic_Regression_EDA-and-Implementation
-
-## What is a logistic regression?
-Logistic Regression is a supervised machine learning algorithm used for classification tasks — mainly to predict binary outcomes (like yes/no, 0/1, true/false, etc.).
-
-## I have use in Diabetes dataset
-
-## What is in that dataset?
-In that dataset there is column of Pregnancies, colum of Glucose, column of BloodPressure, colunm of SkinThickness, column of Insulin, column of BMI, column of DiabetesPedigreeFunction, column of Age, and column of Outcome.
+## 📘 Project Overview
+##### This project aims to predict whether a person has diabetes based on certain diagnostic health measurements.
+##### The dataset used is the Pima Indians Diabetes Database, a well-known dataset in machine learning.
+##### The objective is to build and evaluate a Logistic Regression model to classify whether a person is diabetic (1) or not (0).
